@@ -11,6 +11,6 @@ public static Lauri {
     }
     
     public string Welcome {
-        return 'Hello, Lauri';
+        return 'Hello, Lauri, it''s been too long';
     }
 }
